@@ -11,6 +11,7 @@ html
 <!---bash
     git add index.html
     git commit -m "Add basic index.html file"
+    
     body {
       font-family: Arial, sans-serif;
     }
